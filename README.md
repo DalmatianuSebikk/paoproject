@@ -1,8 +1,8 @@
 # Project PAO
 ## By: Sebastian Ionel
 
-/*
-    PROIECT ALES: Programare cabinet medical
+
+   ## PROIECT ALES: Programare cabinet medical
     ACTIUNI/INTEROGARI:
         - Clientul are posibilitatea sa isi aleaga doar una dintre investigatii (Analize, Consultatii, Ecografii).
         - Dupa ce isi alege investigatia dorita, mesajul este transmis cu un obiect de tip Programare si va avea un status de stand by
@@ -25,4 +25,4 @@
         - Ecografie : Investigatie
         - Reteta
         - Medicament
- */
+ 
